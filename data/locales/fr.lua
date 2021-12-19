@@ -36,7 +36,7 @@ return {
 	['weapon_license'] = "Port d’arme",
 	['has_weapon_license'] = "Vous avez déjà un permis de port d’arme",
 	['bought_weapon_license'] = "Vous avez acheté un permis de port d’arme",
-	['poor_weapon_license'] = "Vous ne pouvez pas vous permettre le port d’arme",
+	['poor_weapon_license'] = "Vous n'avez pas assez d'argent pour le port d’arme",
 	['purchase_license'] = "[~g~E~s~] Acheter la licence",
 	['weapon_unregistered'] = "%s n’appartient à personne",
 	['weapon_registered'] = "%s (%s) appartient à %s",
